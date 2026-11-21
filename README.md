@@ -1,2 +1,2 @@
 # optimus-android
-Apprends l'anglais en jouant
+une intelligence artificielle 
